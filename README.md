@@ -44,7 +44,7 @@
 </p>
 
 
-<h3>Aplicacion</h3>
+<h2 align="center">Aplicación</h2>
 <p> En las carpetas se encuentra el codigo utilizado  y 
 dejo su .jar para ejecutar tambien de nombre conversor.jar</p>
 <p>
@@ -55,24 +55,38 @@ Al ejecutarlo nos abre un Menu con 3 opciones
 <li>Conversor de Temperatura</li>
 <li>Conversor de Medidas/Distancia</li>
 </ul>
-![image text](https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/1.png)
+
+Seleccionamos la opcion que queremos convertir:
 </br>
-Seleccionamos la opcion que queremos convertir, luego debemos ingresar el valor:
-![image text](https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/2.png)
+<img src="https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/1.png" alt="Img01"/>
+</br>
+
+ luego debemos ingresar el valor:
+</br>
+<img src="https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/2.png" alt="Img02"/>
 </br>
 Solo permite numeral, tiene una validacion que van a tener que volver a ingresar el valor si no es de forma correcta
-![image text](https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/3.png)
+</br>
+<img src="https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/3.png" alt="Img03"/>
 </br>
 Luego, nos muestra el tipo y a que lo queremos convertir.
-![image text](https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/4.png)
+</br>
+<img src="https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/4.png" alt="Img04"/>
 </br>
 Nos muestra un mensaje con el valor calculado
-![image text](https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/5.png)
+</br>
+<img src="https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/5.png" alt="Img05"/>
 </br>
 Y por ultimo pregunta si queremos realizar otra conversion o si deseamos 
 salir de la aplicacion.
-![image text](https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/6.png)
+</br>
+<img src="https://github.com/sebiarg2022/ChallengeOne-Java-Conversor/blob/master/assets/img_readme/6.png" alt="Img06"/>
 </br>
 
-
 </p>
+
+
+<h4 align="right">Autor: Sebastian Lucas </h4>
+
+
+
